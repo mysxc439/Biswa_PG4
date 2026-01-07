@@ -1,0 +1,40 @@
+# -------------------------
+# Core scientific stack
+# -------------------------
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+
+# -------------------------
+# Machine Learning
+# -------------------------
+scikit-learn==1.8.0
+joblib
+threadpoolctl
+
+# -------------------------
+# Utilities & Performance
+# -------------------------
+tqdm
+psutil
+pyyaml
+h5py
+protobuf
+packaging
+
+# -------------------------
+# Visualization / Notebooks
+# -------------------------
+ipython
+jupyter
+notebook
+
+# -------------------------
+# Common DL / CV tools
+
+# -------------------------
+opencv-python
+pillow
+tensorboard

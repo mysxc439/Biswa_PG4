@@ -1,0 +1,59 @@
+# -------------------------
+# Core scientific stack
+# -------------------------
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+
+# -------------------------
+# Machine Learning
+# -------------------------
+scikit-learn
+joblib
+threadpoolctl
+
+# -------------------------
+# Deep Learning - PyTorch
+# -------------------------
+torch
+torchvision
+torchaudio
+
+# -------------------------
+# Deep Learning - TensorFlow & Keras
+# -------------------------
+tensorflow
+keras
+
+# -------------------------
+# Utilities & Performance
+# -------------------------
+tqdm
+psutil
+pyyaml
+h5py
+protobuf
+packaging
+
+# -------------------------
+# Visualization / Notebooks
+# -------------------------
+ipython
+jupyter
+notebook
+
+# -------------------------
+# Common DL / CV tools
+
+# -------------------------
+opencv-python
+pillow
+tensorboard
+
+
+# run separately to execute cuda enable torch version
+
+# %pip uninstall torch torchvision torchaudio -y
+# %pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
