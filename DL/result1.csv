@@ -1,0 +1,5 @@
+id,task,hidden_layers,activation,output_activation,optimizer,learning_rate,batch_size,epochs,dropout,l2,test_size,random_state,scaling,loss,metric,name,accuracy,precision,recall,f1,train_time
+8722b1c9,classification,"[64, 32]",leakyrelu,softmax,AdamW,0.001,32,100,0.2,0.001,0.2,42,standard,categorical_crossentropy,accuracy,LeakyReLU + AdamW,0.6948051948051948,0.6656565656565656,0.6670370370370371,0.6663132174634641,5.283082485198975
+8722b1c9,classification,"[64, 32]",leakyrelu,softmax,AdamW,0.001,32,100,0.2,0.001,0.2,42,standard,categorical_crossentropy,accuracy,LeakyReLU + AdamW,0.7077922077922078,0.6812262615301139,0.6855555555555556,0.6830840993277542,5.215594053268433
+8722b1c9,classification,"[64, 32]",leakyrelu,softmax,AdamW,0.001,32,100,0.2,0.001,0.2,42,standard,categorical_crossentropy,accuracy,LeakyReLU + AdamW,0.7337662337662337,0.7080808080808081,0.7098148148148149,0.7089115301277027,5.183131694793701
+cbb0cc1d,classification,"[64, 32]",leakyrelu,softmax,AdamW,0.001,32,100,0.2,0.001,0.2,42,standard,categorical_crossentropy,accuracy,LeakyReLU + AdamW,0.7142857142857143,0.6853318250377074,0.682037037037037,0.6835419390995703,5.204667806625366

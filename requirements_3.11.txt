@@ -6,6 +6,7 @@ scipy
 pandas
 matplotlib
 seaborn
+uuid
 
 # -------------------------
 # Machine Learning
@@ -17,15 +18,15 @@ threadpoolctl
 # -------------------------
 # Deep Learning - PyTorch
 # -------------------------
-torch
-torchvision
-torchaudio
+# torch
+# torchvision
+# torchaudio
 
 # -------------------------
 # Deep Learning - TensorFlow & Keras
 # -------------------------
-tensorflow
-keras
+# tensorflow
+# keras
 
 # -------------------------
 # Utilities & Performance

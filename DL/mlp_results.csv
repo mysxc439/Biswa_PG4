@@ -1,0 +1,2 @@
+id,task,hidden_layers,activation,output_activation,optimizer,learning_rate,batch_size,epochs,dropout,l2,test_size,random_state,scaling,loss,metric,name,accuracy,precision,recall,f1,train_time
+9ddff2ec,classification,"[64, 32]",leakyrelu,softmax,AdamW,0.001,32,40,0.2,0.001,0.2,42,standard,categorical_crossentropy,accuracy,LeakyReLU + AdamW,0.8666666666666667,0.875,0.8666666666666667,0.8653198653198654,2.0233805179595947
